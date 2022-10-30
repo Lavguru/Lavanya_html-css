@@ -1,0 +1,148 @@
+
+#header {
+    background-color: black;
+    width: 100%;
+}
+#heading {
+    background-color: grey;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family:'Courier New', Courier, monospace;
+    width: 88%;
+    height: 100px;
+    margin-top: 10px;
+   /* margin-bottom: 10px;*/
+    margin-left: 88px;
+}
+#heading h1 {
+    /*background-color: bisque;*/
+    width: 45%;
+    height: 50%;
+    padding: 25px;
+    font-size: 332%;
+    margin: auto;
+    float: left;
+}
+.links {
+    margin: 20px auto;
+    padding: 50px;
+    word-spacing: 10px;
+    font-weight: bold;
+}
+.links a {
+    color: black;
+}
+#main {
+    background-color: rgba(8, 48, 81, 0.995);
+    height: 700px;
+}
+#bsm {
+    position: relative;
+    top: 30px;
+    left: 12%;
+    padding: 20px 10px;
+    width: 320px;
+    border: 8px solid rgba(5, 5, 37, 0.052);
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.7;
+    float: left;
+}
+#web_design {
+    position: relative;
+    top: 30px;
+    left: 180px;
+    padding: 20px 10px;
+    width: 350px;
+    border: 8px solid rgba(5, 5, 37, 0.052);
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.7;
+    float: left;
+}
+#salesforce {
+    position: relative;
+    top: 30px;
+    left: 180px;
+    padding: 20px 10px;
+    width: 350px;
+    border: 8px solid rgba(5, 5, 37, 0.052);
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.7;
+    float: left;
+}
+#content {
+   background-color: rgba(240, 239, 238, 0.84);
+   top: 800px;
+    width: 75%;
+    height: 47%;
+    margin-left: 180px;
+    margin-top: 60px;
+    float: left;
+}
+nav {
+    background-color: rgba(245, 245, 245, 0.747);
+    width: 30%;
+    height: 95%;
+    margin-top: 9px;
+    margin-left: 12px;
+    float: left;
+}
+#extra_support {
+    background-color: rgba(245, 245, 245, 0.747);
+    width: 67%;
+    height: 95%;
+    margin-top: 9px;
+    margin-left: 13px;
+    float: left;
+}
+#extra_support p {
+    margin-left: 12px;
+}
+nav a {
+    color: black;
+    margin-left: 50px;
+}
+h2 {
+    margin-left: 11px;
+}
+#contact_us {
+    background-color: black;
+    width: 75%;
+    height: 14%;
+    float: left;
+    margin-left: 180px;
+}
+#contact_us h3 {
+    color: aliceblue;
+    margin-left: 30px;
+}
+ul {
+    float: left;
+    margin-left: 50px;
+    color: purple;
+}
+ol {
+    margin-left: 200px;
+    float: left;
+    color: purple;
+}
+#contact_us h3 {
+    color: whitesmoke;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    float: left;
+}
+#contact_us img {
+  
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+}
+#cpright h6 {
+    color: azure;
+    float: left;
+    margin-left: 500px;
+    margin-top: 50px;
+    opacity: 0.7;
+}
